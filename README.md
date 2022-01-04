@@ -1,1 +1,1 @@
-Python ball and paddle game with score system
+Python ball and paddle game with score system using turtle.
